@@ -15,4 +15,4 @@ Make sure that "iris_dataset.csv" is located in the current directory. Then
 
 Result
 ---------------------
-<img src="src/accuracy.png" width ="450px" height="300px"> </img>
+<img src="src/accuracy.png" > </img>

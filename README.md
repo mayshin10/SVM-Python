@@ -1,5 +1,6 @@
 # Iris_Classfying_SVM
 Support Vector Machine without any ML libraries. It classifies Iris data set.
+It uses 80% of datasets for training and 20% of datasets for test.
 
 Requirements
 ---------------------

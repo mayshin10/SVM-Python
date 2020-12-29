@@ -7,7 +7,7 @@ Requirements
 All requirements are only 
 * ```numpy```
 * ```pandas```
-* ```matplolib```
+* ```matplotlib```
 
 Run
 ---------------------
